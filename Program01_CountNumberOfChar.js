@@ -4,7 +4,8 @@
 
 function totalCharrctor(string){
     var lengthOfstring = string.length
-    console.log(`The Total Number of Charecters in given string ${string}  => ${lengthOfstring}`)
+    console.log(`The Total Number of Charecters in given string "${string}"  => ${lengthOfstring}`)
+    console.log(` `)
 
 }
 totalCharrctor("Hello, World!");

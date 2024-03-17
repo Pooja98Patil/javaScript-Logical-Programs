@@ -6,7 +6,8 @@
 function lastCharecterOfstring (string){
    
     let lastChar = string.charAt(string.length-1)
-    console.log(`The last character of the given strings is => ${lastChar}`)
+    console.log(`The last character of the given strings is "${string}" => ${lastChar}`)
+    console.log(` `)
 
 }
 
