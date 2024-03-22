@@ -20,6 +20,7 @@ function charCount(str){
  }
     }
 console.log(`The count of "a" In the given string => ${count}`);
+console.log(` `)
 
 }
 
